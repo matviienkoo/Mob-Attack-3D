@@ -1,0 +1,4816 @@
+fileFormatVersion: 2
+guid: ded4aca38aacbc84d9273e1afd74f148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4840300281860928798
+    second: countries-flags_0
+  - first:
+      213: -5995596399467240849
+    second: countries-flags_1
+  - first:
+      213: 3011352362224810672
+    second: countries-flags_2
+  - first:
+      213: 8188022824663979687
+    second: countries-flags_3
+  - first:
+      213: 2966352389148588072
+    second: countries-flags_4
+  - first:
+      213: 5564009724460749664
+    second: countries-flags_5
+  - first:
+      213: 8580392116923034162
+    second: countries-flags_6
+  - first:
+      213: -6242366800977312145
+    second: countries-flags_7
+  - first:
+      213: 2803096565630975513
+    second: countries-flags_8
+  - first:
+      213: 1240418192372470019
+    second: countries-flags_9
+  - first:
+      213: 3534655140732436789
+    second: countries-flags_10
+  - first:
+      213: 4154638042067791532
+    second: countries-flags_11
+  - first:
+      213: -4723061661335878302
+    second: countries-flags_12
+  - first:
+      213: 4024184571757070770
+    second: countries-flags_13
+  - first:
+      213: 4353917867594288409
+    second: countries-flags_14
+  - first:
+      213: 3076897656672192972
+    second: countries-flags_15
+  - first:
+      213: 297043578152516095
+    second: countries-flags_16
+  - first:
+      213: 91099241878508862
+    second: countries-flags_17
+  - first:
+      213: -7935343252963413104
+    second: countries-flags_18
+  - first:
+      213: -6430437853096975932
+    second: countries-flags_19
+  - first:
+      213: -4869055026631677477
+    second: countries-flags_20
+  - first:
+      213: 570537852074487956
+    second: countries-flags_21
+  - first:
+      213: -7045857930023160959
+    second: countries-flags_22
+  - first:
+      213: -2455758452158810469
+    second: countries-flags_23
+  - first:
+      213: -1604138766732914185
+    second: countries-flags_24
+  - first:
+      213: -7712430132016373925
+    second: countries-flags_25
+  - first:
+      213: -4685130063597273461
+    second: countries-flags_26
+  - first:
+      213: 4101483769852322384
+    second: countries-flags_27
+  - first:
+      213: 2091574696012535833
+    second: countries-flags_28
+  - first:
+      213: 3089143639485024644
+    second: countries-flags_29
+  - first:
+      213: -6852659181548350669
+    second: countries-flags_30
+  - first:
+      213: 3795909858087110213
+    second: countries-flags_31
+  - first:
+      213: 8329739543805417234
+    second: countries-flags_32
+  - first:
+      213: -7994681866422364340
+    second: countries-flags_33
+  - first:
+      213: -8818285139703748921
+    second: countries-flags_34
+  - first:
+      213: -3344594304292330922
+    second: countries-flags_35
+  - first:
+      213: -4886420463602780407
+    second: countries-flags_36
+  - first:
+      213: 2189164513577945159
+    second: countries-flags_37
+  - first:
+      213: 1494116182440651329
+    second: countries-flags_38
+  - first:
+      213: 3174505698170349899
+    second: countries-flags_39
+  - first:
+      213: -1792001814536813644
+    second: countries-flags_40
+  - first:
+      213: -3486085608435924982
+    second: countries-flags_41
+  - first:
+      213: 1569304682387371291
+    second: countries-flags_42
+  - first:
+      213: -413210423532468366
+    second: countries-flags_43
+  - first:
+      213: 3587911629241344375
+    second: countries-flags_44
+  - first:
+      213: 437794011095182764
+    second: countries-flags_45
+  - first:
+      213: 6782503414129741839
+    second: countries-flags_46
+  - first:
+      213: 678893869733427169
+    second: countries-flags_47
+  - first:
+      213: 4622129214600800241
+    second: countries-flags_48
+  - first:
+      213: -8166189368319885082
+    second: countries-flags_49
+  - first:
+      213: -8079853928468305144
+    second: countries-flags_50
+  - first:
+      213: -778702749917911062
+    second: countries-flags_51
+  - first:
+      213: 8534627922111993030
+    second: countries-flags_52
+  - first:
+      213: -4878131592284029502
+    second: countries-flags_53
+  - first:
+      213: 7015974568110924744
+    second: countries-flags_54
+  - first:
+      213: -6152944619030995989
+    second: countries-flags_55
+  - first:
+      213: -6977885246792855976
+    second: countries-flags_56
+  - first:
+      213: -3927363197894038349
+    second: countries-flags_57
+  - first:
+      213: 3252871116760015454
+    second: countries-flags_58
+  - first:
+      213: 8083422833114683898
+    second: countries-flags_59
+  - first:
+      213: -8616345200899471976
+    second: countries-flags_60
+  - first:
+      213: -5240044213000465603
+    second: countries-flags_61
+  - first:
+      213: -8704113284003684764
+    second: countries-flags_62
+  - first:
+      213: 5657914456489293987
+    second: countries-flags_63
+  - first:
+      213: -3523381609599494656
+    second: countries-flags_64
+  - first:
+      213: -5217010385160245178
+    second: countries-flags_65
+  - first:
+      213: 135869872252165915
+    second: countries-flags_66
+  - first:
+      213: 2126907120401437253
+    second: countries-flags_67
+  - first:
+      213: 5012593439148010309
+    second: countries-flags_68
+  - first:
+      213: -8289659990445182925
+    second: countries-flags_69
+  - first:
+      213: -1663005045755076988
+    second: countries-flags_70
+  - first:
+      213: -3402971487374212351
+    second: countries-flags_71
+  - first:
+      213: -2394378111670220804
+    second: countries-flags_72
+  - first:
+      213: -3030761407111394373
+    second: countries-flags_73
+  - first:
+      213: 8890234311716945101
+    second: countries-flags_74
+  - first:
+      213: -3099364560909456406
+    second: countries-flags_75
+  - first:
+      213: -1540895774596938591
+    second: countries-flags_76
+  - first:
+      213: 3457657311664053925
+    second: countries-flags_77
+  - first:
+      213: 2103440298057930962
+    second: countries-flags_78
+  - first:
+      213: 213881775892241120
+    second: countries-flags_79
+  - first:
+      213: 2047215196933826091
+    second: countries-flags_80
+  - first:
+      213: 1385099038205157539
+    second: countries-flags_81
+  - first:
+      213: 2237491817839112
+    second: countries-flags_82
+  - first:
+      213: 5927593273028169729
+    second: countries-flags_83
+  - first:
+      213: -7706943027074653806
+    second: countries-flags_84
+  - first:
+      213: -2244939406410179770
+    second: countries-flags_85
+  - first:
+      213: -6962395025145272232
+    second: countries-flags_86
+  - first:
+      213: -526735295483549464
+    second: countries-flags_87
+  - first:
+      213: -5380552179194781657
+    second: countries-flags_88
+  - first:
+      213: -1124559933720283951
+    second: countries-flags_89
+  - first:
+      213: 5276713005728276010
+    second: countries-flags_90
+  - first:
+      213: 1158219670458561383
+    second: countries-flags_91
+  - first:
+      213: -2618788790034570133
+    second: countries-flags_92
+  - first:
+      213: 5218767759575630882
+    second: countries-flags_93
+  - first:
+      213: -6797632991520874018
+    second: countries-flags_94
+  - first:
+      213: 4850117970438495134
+    second: countries-flags_95
+  - first:
+      213: 8993994548292057006
+    second: countries-flags_96
+  - first:
+      213: 1309731728298460872
+    second: countries-flags_97
+  - first:
+      213: 4883035167089653928
+    second: countries-flags_98
+  - first:
+      213: 9155482567858223404
+    second: countries-flags_99
+  - first:
+      213: -6487176123468744263
+    second: countries-flags_100
+  - first:
+      213: 863259981876413988
+    second: countries-flags_101
+  - first:
+      213: 8312347467128178278
+    second: countries-flags_102
+  - first:
+      213: -3671762765253588973
+    second: countries-flags_103
+  - first:
+      213: -252278659532077421
+    second: countries-flags_104
+  - first:
+      213: -3407780490639340421
+    second: countries-flags_105
+  - first:
+      213: 5648035709692168714
+    second: countries-flags_106
+  - first:
+      213: 8131159461837567185
+    second: countries-flags_107
+  - first:
+      213: 1862011662358354382
+    second: countries-flags_108
+  - first:
+      213: 3767609502117682508
+    second: countries-flags_109
+  - first:
+      213: 5478578961709961646
+    second: countries-flags_110
+  - first:
+      213: -2355977143751181485
+    second: countries-flags_111
+  - first:
+      213: 6717282927273111538
+    second: countries-flags_112
+  - first:
+      213: -3600746456914045353
+    second: countries-flags_113
+  - first:
+      213: -6088128263783417700
+    second: countries-flags_114
+  - first:
+      213: -2174612405003646955
+    second: countries-flags_115
+  - first:
+      213: -1402788765477715805
+    second: countries-flags_116
+  - first:
+      213: -2567097341394567120
+    second: countries-flags_117
+  - first:
+      213: 5094256430856747935
+    second: countries-flags_118
+  - first:
+      213: -4374983545552556054
+    second: countries-flags_119
+  - first:
+      213: 2058274045178599021
+    second: countries-flags_120
+  - first:
+      213: -229913955174135996
+    second: countries-flags_121
+  - first:
+      213: 6581122201220172412
+    second: countries-flags_122
+  - first:
+      213: 4118752922349190339
+    second: countries-flags_123
+  - first:
+      213: 2126652140451761122
+    second: countries-flags_124
+  - first:
+      213: 3518167026669569300
+    second: countries-flags_125
+  - first:
+      213: 6987250186696045497
+    second: countries-flags_126
+  - first:
+      213: 6699937297961740786
+    second: countries-flags_127
+  - first:
+      213: -2341223392805974292
+    second: countries-flags_128
+  - first:
+      213: -2100765386444874526
+    second: countries-flags_129
+  - first:
+      213: 2371098330058790247
+    second: countries-flags_130
+  - first:
+      213: 7134848782488137136
+    second: countries-flags_131
+  - first:
+      213: -1876620055274226832
+    second: countries-flags_132
+  - first:
+      213: 5826091966154768388
+    second: countries-flags_133
+  - first:
+      213: -4991148618024578085
+    second: countries-flags_134
+  - first:
+      213: -4672956708226190871
+    second: countries-flags_135
+  - first:
+      213: 915733129673151039
+    second: countries-flags_136
+  - first:
+      213: 7244859880198978587
+    second: countries-flags_137
+  - first:
+      213: -4978081657538207087
+    second: countries-flags_138
+  - first:
+      213: -4406212469271548620
+    second: countries-flags_139
+  - first:
+      213: -2741052525629334105
+    second: countries-flags_140
+  - first:
+      213: -6097897636132050209
+    second: countries-flags_141
+  - first:
+      213: 6028122389672247599
+    second: countries-flags_142
+  - first:
+      213: 5940587018852392277
+    second: countries-flags_143
+  - first:
+      213: 5737820146881414642
+    second: countries-flags_144
+  - first:
+      213: -6478456380715214240
+    second: countries-flags_145
+  - first:
+      213: 5062129823255573564
+    second: countries-flags_146
+  - first:
+      213: -1471060968372806054
+    second: countries-flags_147
+  - first:
+      213: -2900972800865071191
+    second: countries-flags_148
+  - first:
+      213: 4782676237538761467
+    second: countries-flags_149
+  - first:
+      213: -5315451597491000119
+    second: countries-flags_150
+  - first:
+      213: -3701370312921006413
+    second: countries-flags_151
+  - first:
+      213: 1404388103562918310
+    second: countries-flags_152
+  - first:
+      213: 6385993212180545889
+    second: countries-flags_153
+  - first:
+      213: 1527204027919710763
+    second: countries-flags_154
+  - first:
+      213: 1529083035345436572
+    second: countries-flags_155
+  - first:
+      213: -2573408529211694337
+    second: countries-flags_156
+  - first:
+      213: 2565425831974637619
+    second: countries-flags_157
+  - first:
+      213: 8508697949945433342
+    second: countries-flags_158
+  - first:
+      213: -5134147910131002570
+    second: countries-flags_159
+  - first:
+      213: -136944054678119240
+    second: countries-flags_160
+  - first:
+      213: 8451912824718956984
+    second: countries-flags_161
+  - first:
+      213: -9075766245007304118
+    second: countries-flags_162
+  - first:
+      213: -8371557544333679441
+    second: countries-flags_163
+  - first:
+      213: 7990198767040513144
+    second: countries-flags_164
+  - first:
+      213: -2642666167985510631
+    second: countries-flags_165
+  - first:
+      213: 395392200582257688
+    second: countries-flags_166
+  - first:
+      213: 4727760519747238718
+    second: countries-flags_167
+  - first:
+      213: 6468188871638943324
+    second: countries-flags_168
+  - first:
+      213: -424799116911657692
+    second: countries-flags_169
+  - first:
+      213: 6392847025396637411
+    second: countries-flags_170
+  - first:
+      213: -9145255380205224662
+    second: countries-flags_171
+  - first:
+      213: -7902142400629084566
+    second: countries-flags_172
+  - first:
+      213: 8537034997650600841
+    second: countries-flags_173
+  - first:
+      213: 257238948060720413
+    second: countries-flags_174
+  - first:
+      213: -7605011319717515408
+    second: countries-flags_175
+  - first:
+      213: -6248122045111640907
+    second: countries-flags_176
+  - first:
+      213: 1027107107708650732
+    second: countries-flags_177
+  - first:
+      213: -3082918581739303469
+    second: countries-flags_178
+  - first:
+      213: -8901028549941941777
+    second: countries-flags_179
+  - first:
+      213: 2152770486636217781
+    second: countries-flags_180
+  - first:
+      213: -3399050381548372587
+    second: countries-flags_181
+  - first:
+      213: 8102572329000142782
+    second: countries-flags_182
+  - first:
+      213: 4165528623427928799
+    second: countries-flags_183
+  - first:
+      213: -1456180078971049484
+    second: countries-flags_184
+  - first:
+      213: -743468762713148554
+    second: countries-flags_185
+  - first:
+      213: 5997077761246892427
+    second: countries-flags_186
+  - first:
+      213: -2826299255657802459
+    second: countries-flags_187
+  - first:
+      213: -456847211821553249
+    second: countries-flags_188
+  - first:
+      213: 1446440234286879895
+    second: countries-flags_189
+  - first:
+      213: 3394591465958998875
+    second: countries-flags_190
+  - first:
+      213: 1336584109371754954
+    second: countries-flags_191
+  - first:
+      213: 5708730391702669096
+    second: countries-flags_192
+  - first:
+      213: -4306917683618934166
+    second: countries-flags_193
+  - first:
+      213: 6082232783994869470
+    second: countries-flags_194
+  - first:
+      213: -6744645299673632571
+    second: countries-flags_195
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: countries-flags_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e153b8a16733c2340800000000000000
+      internalID: 4840300281860928798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1113
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e42937dc5bcca0800000000000000
+      internalID: -5995596399467240849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba71f3c4097ac920800000000000000
+      internalID: 3011352362224810672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1113
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a613e48063b1a170800000000000000
+      internalID: 8188022824663979687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82835d118c99a2920800000000000000
+      internalID: 2966352389148588072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1113
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635d417d55573d40800000000000000
+      internalID: 5564009724460749664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a62c26b2da31770800000000000000
+      internalID: 8580392116923034162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f664e0ec778ae59a0800000000000000
+      internalID: -6242366800977312145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3d89997996e620800000000000000
+      internalID: 2803096565630975513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_9
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011b4126c9d63110800000000000000
+      internalID: 1240418192372470019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_10
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318dd28f1e9d0130800000000000000
+      internalID: 3534655140732436789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_11
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1113
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae66cb794d38a930800000000000000
+      internalID: 4154638042067791532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_12
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650fcf5170547eb0800000000000000
+      internalID: -4723061661335878302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_13
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1114
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b900360c86c8d730800000000000000
+      internalID: 4024184571757070770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_14
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1113
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d0f278b393c6c30800000000000000
+      internalID: 4353917867594288409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_15
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1113
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98d2cdd1653ba20800000000000000
+      internalID: 3076897656672192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_16
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1113
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9779e7f8f4f1400800000000000000
+      internalID: 297043578152516095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d97f1746a34100800000000000000
+      internalID: 91099241878508862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1012
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b25cca5fffd190800000000000000
+      internalID: -7935343252963413104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1edefa7de72c6a0800000000000000
+      internalID: -6430437853096975932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1012
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9e9c92044ad6cb0800000000000000
+      internalID: -4869055026631677477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49070d35725fae700800000000000000
+      internalID: 570537852074487956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1012
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b91f0b85183e90800000000000000
+      internalID: -7045857930023160959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9639ece2b46bedd0800000000000000
+      internalID: -2455758452158810469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1937e6a44fcb9e0800000000000000
+      internalID: -1604138766732914185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_25
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f152a38a1f7f490800000000000000
+      internalID: -7712430132016373925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_26
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef7c0b7031bfeb0800000000000000
+      internalID: -4685130063597273461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_27
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1012
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e31212c56be830800000000000000
+      internalID: 4101483769852322384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_28
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1010
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d509ba14c60d10800000000000000
+      internalID: 2091574696012535833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_29
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48989abe5c7deda20800000000000000
+      internalID: 3089143639485024644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_30
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1012
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ddf408c676e0a0800000000000000
+      internalID: -6852659181548350669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_31
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1012
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468fa287e7cda430800000000000000
+      internalID: 3795909858087110213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_32
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1012
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217db047bfd299370800000000000000
+      internalID: 8329739543805417234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_33
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1012
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4753ab333f2d0190800000000000000
+      internalID: -7994681866422364340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62adff2682f9580800000000000000
+      internalID: -8818285139703748921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526cde533d9591d0800000000000000
+      internalID: -3344594304292330922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b1cb4a72ff2cb0800000000000000
+      internalID: -4886420463602780407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74844b2c689716e10800000000000000
+      internalID: 2189164513577945159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa98370ca2cb410800000000000000
+      internalID: 1494116182440651329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a5ecfc1c1e0c20800000000000000
+      internalID: 3174505698170349899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38da718d78127e0800000000000000
+      internalID: -1792001814536813644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004394fb9fee9fc0800000000000000
+      internalID: -3486085608435924982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 607
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b157e0a4b4a47c510800000000000000
+      internalID: 1569304682387371291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 707
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277cbdf1f4bf34af0800000000000000
+      internalID: -413210423532468366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 808
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716c620e92dac130800000000000000
+      internalID: 3587911629241344375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 201
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2f14655b531600800000000000000
+      internalID: 437794011095182764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 910
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d31f7bea402e50800000000000000
+      internalID: 6782503414129741839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 303
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b6a9a06aeb6900800000000000000
+      internalID: 678893869733427169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 505
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76c36180a152040800000000000000
+      internalID: 4622129214600800241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 404
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0c8bc290edbae80800000000000000
+      internalID: -8166189368319885082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b2a9439a79edf80800000000000000
+      internalID: -8079853928468305144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e58589fd7135f0800000000000000
+      internalID: -778702749917911062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 201
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c49d9370e6117670800000000000000
+      internalID: 8534627922111993030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 809
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdbc4a89256d4cb0800000000000000
+      internalID: -4878131592284029502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32d6d82bfbd5160800000000000000
+      internalID: 7015974568110924744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb910cf7795c9aa0800000000000000
+      internalID: -6152944619030995989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_56
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e0975a652992f90800000000000000
+      internalID: -6977885246792855976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_57
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc6595caf33f79c0800000000000000
+      internalID: -3927363197894038349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_58
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 303
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52eb96db05842d20800000000000000
+      internalID: 3252871116760015454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 809
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af915192d361e2070800000000000000
+      internalID: 8083422833114683898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 910
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ce3ee0b79c6880800000000000000
+      internalID: -8616345200899471976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 707
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3314cc1d8f9747b0800000000000000
+      internalID: -5240044213000465603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_62
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9336a517c43780800000000000000
+      internalID: -8704113284003684764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87794a833f48e40800000000000000
+      internalID: 5657914456489293987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 505
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069daff71f6a1fc0800000000000000
+      internalID: -3523381609599494656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 607
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640fff212b47997b0800000000000000
+      internalID: -5217010385160245178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f944fcde4b2e100800000000000000
+      internalID: 135869872252165915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_67
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d6c5d1ca448d10800000000000000
+      internalID: 2126907120401437253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_68
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54beedfcc2f409540800000000000000
+      internalID: 5012593439148010309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_69
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 808
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303fb0c82635fc80800000000000000
+      internalID: -8289659990445182925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_70
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e161cc8b1dbe8e0800000000000000
+      internalID: -1663005045755076988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 401
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030742467736c0d0800000000000000
+      internalID: -3402971487374212351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_72
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70deb1bc575ced0800000000000000
+      internalID: -2394378111670220804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_73
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb8922de8290f5d0800000000000000
+      internalID: -3030761407111394373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_74
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 607
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb0e70105706b70800000000000000
+      internalID: 8890234311716945101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_75
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 910
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebae8d5a58dcf4d0800000000000000
+      internalID: -3099364560909456406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 505
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cf3ff473ad9ae0800000000000000
+      internalID: -1540895774596938591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_77
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 201
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae94c861011cff20800000000000000
+      internalID: 3457657311664053925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_78
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 303
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81cfb7ecbe03d10800000000000000
+      internalID: 2103440298057930962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_79
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 707
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9cfb875cd7f200800000000000000
+      internalID: 213881775892241120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_80
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 404
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a500006b296c10800000000000000
+      internalID: 2047215196933826091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_81
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 808
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a024f69c3cd83310800000000000000
+      internalID: 1385099038205157539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_82
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7df8acf2f70000800000000000000
+      internalID: 2237491817839112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_83
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d6d31daa034250800000000000000
+      internalID: 5927593273028169729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_84
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291aa0766207b0590800000000000000
+      internalID: -7706943027074653806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_85
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b15aa018f58d0e0800000000000000
+      internalID: -2244939406410179770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_86
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 808
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858e44cec9a906f90800000000000000
+      internalID: -6962395025145272232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_87
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ea0e1a09a0b8f0800000000000000
+      internalID: -526735295483549464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_88
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72024a7ec407455b0800000000000000
+      internalID: -5380552179194781657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_89
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d437fdc2b2c460f0800000000000000
+      internalID: -1124559933720283951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_90
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 201
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1e108586aa3940800000000000000
+      internalID: 5276713005728276010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_91
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7637d8d57a2d21010800000000000000
+      internalID: 1158219670458561383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_92
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e63c687138abd0800000000000000
+      internalID: -2618788790034570133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_93
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22444ca80a9cc6840800000000000000
+      internalID: 5218767759575630882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_94
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 808
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12ce24fc4f9a1a0800000000000000
+      internalID: -6797632991520874018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_95
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b99bad8941f4340800000000000000
+      internalID: 4850117970438495134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_96
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77fb2b36611dc70800000000000000
+      internalID: 8993994548292057006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_97
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c940511a1d2210800000000000000
+      internalID: 1309731728298460872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_98
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87e10fc9604c340800000000000000
+      internalID: 4883035167089653928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_99
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29787c33eece0f70800000000000000
+      internalID: 9155482567858223404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_100
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ff3dafabe8f5a0800000000000000
+      internalID: -6487176123468744263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_101
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 808
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426cd88316aeafb00800000000000000
+      internalID: 863259981876413988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_102
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660bcb0bf36b5370800000000000000
+      internalID: 8312347467128178278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_103
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cd8508374b0dc0800000000000000
+      internalID: -3671762765253588973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_104
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396cd2255e9bf7cf0800000000000000
+      internalID: -252278659532077421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_105
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8feee2b125b0d0800000000000000
+      internalID: -3407780490639340421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_106
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 303
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4ceaad8ad16e40800000000000000
+      internalID: 5648035709692168714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_107
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 707
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d472e6237ea7d070800000000000000
+      internalID: 8131159461837567185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_108
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 505
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec91186ddb137d910800000000000000
+      internalID: 1862011662358354382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_109
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 202
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d5c1a61ec394430800000000000000
+      internalID: 3767609502117682508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_110
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea196a6f982d70c40800000000000000
+      internalID: 5478578961709961646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_111
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b75cf2543ed4fd0800000000000000
+      internalID: -2355977143751181485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_112
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 809
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe8ef8b35983d50800000000000000
+      internalID: 6717282927273111538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_113
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756546dcc24970ec0800000000000000
+      internalID: -3600746456914045353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_114
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987c22b99f928ba0800000000000000
+      internalID: -6088128263783417700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_115
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518899b0a8932d1e0800000000000000
+      internalID: -2174612405003646955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_116
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 808
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0cac2dc0b488ce0800000000000000
+      internalID: -1402788765477715805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_117
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c35ea196df5cd0800000000000000
+      internalID: -2567097341394567120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_118
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b37fbbb3f62b640800000000000000
+      internalID: 5094256430856747935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_119
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef292d15afe843c0800000000000000
+      internalID: -4374983545552556054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_120
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d641c655709c10800000000000000
+      internalID: 2058274045178599021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_121
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c0f4d97e2fccf0800000000000000
+      internalID: -229913955174135996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_122
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 809
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4a2316c7d45b50800000000000000
+      internalID: 6581122201220172412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_123
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 910
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb936f5ffb82930800000000000000
+      internalID: 4118752922349190339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_124
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 303
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb8370bad2638d10800000000000000
+      internalID: 2126652140451761122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_125
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 201
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c12d454a03d030800000000000000
+      internalID: 3518167026669569300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_126
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 707
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3bcc65603b7f060800000000000000
+      internalID: 6987250186696045497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_127
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 404
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f966668975fafc50800000000000000
+      internalID: 6699937297961740786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_128
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 505
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee07f38abd428fd0800000000000000
+      internalID: -2341223392805974292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_129
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 607
+        width: 127
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5488e20598d2e0800000000000000
+      internalID: -2100765386444874526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_130
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7651daa5e55d7e020800000000000000
+      internalID: 2371098330058790247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_131
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 809
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd65566a23140360800000000000000
+      internalID: 7134848782488137136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_132
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b7103a008e4f5e0800000000000000
+      internalID: -1876620055274226832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_133
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400896776cf6ad050800000000000000
+      internalID: 5826091966154768388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_134
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd39671b6c0ebbab0800000000000000
+      internalID: -4991148618024578085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_135
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1366bd1a2562fb0800000000000000
+      internalID: -4672956708226190871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_136
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 201
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32993ffd6655bc00800000000000000
+      internalID: 915733129673151039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_137
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c3db61da9ea8460800000000000000
+      internalID: 7244859880198978587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_138
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 303
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922c838b1d4aeab0800000000000000
+      internalID: -4978081657538207087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_139
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 607
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2c24ba1df9d2c0800000000000000
+      internalID: -4406212469271548620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_140
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 707
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad1d2b2043d5f9d0800000000000000
+      internalID: -2741052525629334105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_141
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 201
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa7a1786aef5ba0800000000000000
+      internalID: -6097897636132050209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_142
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f214ef2006138a350800000000000000
+      internalID: 6028122389672247599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_143
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5ef74b64317250800000000000000
+      internalID: 5940587018852392277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_144
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 809
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f542f7f505d0af40800000000000000
+      internalID: 5737820146881414642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_145
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a5b9efe36e716a0800000000000000
+      internalID: -6478456380715214240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_146
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 201
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343f02014c404640800000000000000
+      internalID: 5062129823255573564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_147
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 505
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5231e7ddb59be0800000000000000
+      internalID: -1471060968372806054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_148
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 910
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af0e5d8b9cadb7d0800000000000000
+      internalID: -2900972800865071191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_149
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 607
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1336c2ba7f5240800000000000000
+      internalID: 4782676237538761467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_150
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 303
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc24ce3fe8bb36b0800000000000000
+      internalID: -5315451597491000119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_151
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 404
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beba24af4712acc0800000000000000
+      internalID: -3701370312921006413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_152
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 809
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f6a71a836d7310800000000000000
+      internalID: 1404388103562918310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_153
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 707
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c316fdfa9f9850800000000000000
+      internalID: 6385993212180545889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_154
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 505
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a33bfc8f7b13510800000000000000
+      internalID: 1527204027919710763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_155
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 808
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f37d15be4683510800000000000000
+      internalID: 1529083035345436572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_156
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 303
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26062c39a694cd0800000000000000
+      internalID: -2573408529211694337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_157
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 910
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309574b3393a9320800000000000000
+      internalID: 2565425831974637619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_158
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 707
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc879754b7f41670800000000000000
+      internalID: 8508697949945433342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_159
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 404
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d3587da7dfb8b0800000000000000
+      internalID: -5134147910131002570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_160
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 607
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1fca9b1a791ef0800000000000000
+      internalID: -136944054678119240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_161
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 201
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b911f51fe93b4570800000000000000
+      internalID: 8451912824718956984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_162
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 912
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4adbd58fa66c0280800000000000000
+      internalID: -9075766245007304118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 126
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ef3194c042db80800000000000000
+      internalID: -8371557544333679441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_164
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c63ad173e2ee60800000000000000
+      internalID: 7990198767040513144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_165
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e7452f1d535bd0800000000000000
+      internalID: -2642666167985510631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_166
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5aae8c17bc7500800000000000000
+      internalID: 395392200582257688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_167
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b76aad4216c9140800000000000000
+      internalID: 4727760519747238718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_168
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 99
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c568c22428f93c950800000000000000
+      internalID: 6468188871638943324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_169
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db49f247fca1af0800000000000000
+      internalID: -424799116911657692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_170
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 99
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedd24bf74f7b850800000000000000
+      internalID: 6392847025396637411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_171
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d33a27fa6851180800000000000000
+      internalID: -9145255380205224662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_172
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e63fd9a53f55290800000000000000
+      internalID: -7902142400629084566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_173
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ba066914a97670800000000000000
+      internalID: 8537034997650600841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_174
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 99
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ded89d575e19300800000000000000
+      internalID: 257238948060720413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_175
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fa96f6f72957690800000000000000
+      internalID: -7605011319717515408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_176
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 99
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc55db9a163a49a0800000000000000
+      internalID: -6248122045111640907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_177
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 99
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c04df874014e00800000000000000
+      internalID: 1027107107708650732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_178
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 99
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4af742e54735d0800000000000000
+      internalID: -3082918581739303469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b585ea0a5d20ed10800000000000000
+      internalID: 2152770486636217781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_181
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d372adfa524d0d0800000000000000
+      internalID: -3399050381548372587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_182
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb786fc9a9e127070800000000000000
+      internalID: 8102572329000142782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_183
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c42d863eeec930800000000000000
+      internalID: 4165528623427928799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_184
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92eefeeeb9acbe0800000000000000
+      internalID: -1456180078971049484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_185
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67332e0791baea5f0800000000000000
+      internalID: -743468762713148554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_186
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8114813376e93350800000000000000
+      internalID: 5997077761246892427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_187
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d0952dc7f6c8d0800000000000000
+      internalID: -2826299255657802459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_188
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99afbe91e3f8a9f0800000000000000
+      internalID: -456847211821553249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_189
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949081cab9c21410800000000000000
+      internalID: 1446440234286879895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_190
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530f06f3f20c1f20800000000000000
+      internalID: 3394591465958998875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_191
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 0
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9098b7a208c8210800000000000000
+      internalID: 1336584109371754954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_192
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270aeb8b0c793f40800000000000000
+      internalID: 5708730391702669096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_193
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a629b0f8f21ca34c0800000000000000
+      internalID: -4306917683618934166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_194
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 0
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6df33fd7e686450800000000000000
+      internalID: 6082232783994869470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: countries-flags_195
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 0
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f1f8a5d43662a0800000000000000
+      internalID: -6744645299673632571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de63b7143984313448b70629389b3b54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
